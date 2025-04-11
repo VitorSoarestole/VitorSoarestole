@@ -3,6 +3,8 @@
 **`Desenvolvedor Front-END`**
 
 Me chamo Vitor Soares Tolentino, tenho 17 anos e sou natural de São Bernardo do Campo. Estou no Terceiro ano do ensino médio na ETEC Lauro Gomes, com o curso técnico em Eletrônica. Atualmente, meu sonho é cursar Engenahria de Software ou Engenharia da Computação. Sou um amante da tecnologia e sonho em me tornar um desenvolvedor Front-End.
+<br>
+<br>
     </a> 
     <a href="https://github.com/VitorSoarestole?tab=repositories&sort=stargazers">
         <img 
